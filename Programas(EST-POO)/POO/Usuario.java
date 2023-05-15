@@ -8,7 +8,7 @@
 import java.util.Scanner;
 public class Usuario
 {
-    // instance variables - replace the example below with your own
+    
     private String nombre;
     private double precioTotal;
     private double promedioCompra;
